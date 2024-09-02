@@ -5,8 +5,13 @@ import (
 	"log"
 )
 
+const (
+	tgBotHost = "api.telegram.org"
+)
+
 func main() {
-	t := mustToken()
+	// tgClient := telegram.New(tgBotHost, mustToken())
+	// t := mustToken()
 	// fetcher = telegram.New(token)
 
 	// fmt.Println("Привет, Мир!") // ВЫВОД: Привет, Мир!
