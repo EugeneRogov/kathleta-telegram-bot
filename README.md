@@ -1,1 +1,1 @@
-# go-telegram-bot
+# kathleta-telegram-bot
